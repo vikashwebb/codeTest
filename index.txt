@@ -1,0 +1,7 @@
+$('head').append('<style type="text/css">.grid_50{background-color: #333; max-width: 1000px; margin:auto} .std__box{background-color: transparent} .hbspt-form iframe{width: 100% !important} .bannerSection{background-image url: ("https://wallpapercave.com/wp/wp3202677.jpg"); background-position: left; background-repeat: no-repeat; background-size: contain;} .bannerInnerSection{max-width: 370px; margin: auto; text-align: center;} .rightSide{color: #fff;padding-top: 40px;} .rightSide h4{font-size: 25px;}.rightSide p{ font-size: 14px;} .userImg{ width: 100px; float: left; margin-right: 10px;} .userWrap{ display: flex; align-items: center;} .userData p{ font-size: 14px; margin: 0; padding: 0px; }</style>');
+
+
+$('.content').prepend('<div class="bannerSection"><div class="bannerInnerSection"><p>GET IN TOUCH</p><h4>If growing your ecommerce business is a big focus for you then theres a good chance we can help.</h4></div>')
+
+
+$('.column:last-child .std').append('<div class="rightSide"><h4>"We are continually impressed with their process and the output of their work"</h4> <p>We wanted to work with Endless Gain because we believe in their scientific and research based approach backed up by real user testing. </p> <p>As a strategic partner, they are helping to drive real value for our customers and our business.</p> <div class="userWrap"> <img src="https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png" class="userImg" style="width: 100px;"> <div class="userData"> <p>Ben Hart</p> <p>Ecommerce Director, Evans Cycles</p></div></div></div>')
